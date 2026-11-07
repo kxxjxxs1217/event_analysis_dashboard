@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 대용량 데이터: 저장소에는 배포용 Parquet(data/processed/events_dashboard.parquet)만 올린다.
+# 아래 파일은 원본 출처에서 받아 analysis/03 → 07 → 14 순서로 다시 만든다.
+data/raw/events.csv
+data/raw/item_category_history.csv
+data/processed/*.csv
+
+# 로컬 도구·비밀값
+.claude/
+.streamlit/secrets.toml

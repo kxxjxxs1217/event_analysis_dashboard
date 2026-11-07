@@ -1,0 +1,851 @@
+﻿범위,분포,구간,방문자 수,비율(%)
+전체,View→AddToCart 소요 시간,1분 미만,8467,30.375977613546674
+전체,View→AddToCart 소요 시간,1~5분,9392,33.694482313266846
+전체,View→AddToCart 소요 시간,5~15분,4397,15.774556934777928
+전체,View→AddToCart 소요 시간,15~30분,1795,6.439692903781302
+전체,View→AddToCart 소요 시간,30분~1시간,1118,4.0109062208509725
+전체,View→AddToCart 소요 시간,1~3시간,1096,3.9319796225873573
+전체,View→AddToCart 소요 시간,3~6시간,451,1.617995264404104
+전체,View→AddToCart 소요 시간,6~12시간,383,1.3740403243165673
+전체,View→AddToCart 소요 시간,12~24시간,775,2.78036880246825
+전체,AddToCart→Transaction 소요 시간,1분 미만,308,3.940634595701126
+전체,AddToCart→Transaction 소요 시간,1~5분,3401,43.51330603889457
+전체,AddToCart→Transaction 소요 시간,5~15분,2414,30.885363357215965
+전체,AddToCart→Transaction 소요 시간,15~30분,718,9.186284544524053
+전체,AddToCart→Transaction 소요 시간,30분~1시간,380,4.861821903787104
+전체,AddToCart→Transaction 소요 시간,1~3시간,306,3.915046059365404
+전체,AddToCart→Transaction 소요 시간,3~6시간,108,1.3817809621289663
+전체,AddToCart→Transaction 소요 시간,6~12시간,76,0.9723643807574206
+전체,AddToCart→Transaction 소요 시간,12~24시간,105,1.343398157625384
+전체,AddToCart 전 View 횟수,1회,15253,54.7212456052235
+전체,AddToCart 전 View 횟수,2회,5663,20.316423907584127
+전체,AddToCart 전 View 횟수,3회,2443,8.764439979909593
+전체,AddToCart 전 View 횟수,4회,1421,5.09794073329985
+전체,AddToCart 전 View 횟수,5회,849,3.0458491784458634
+전체,AddToCart 전 View 횟수,6~10회,1586,5.689890220276961
+전체,AddToCart 전 View 횟수,11~20회,519,1.861950204491641
+전체,AddToCart 전 View 횟수,21회 이상,140,0.5022601707684581
+전체,Transaction 전 AddToCart 횟수,1회,6363,81.40992835209826
+전체,Transaction 전 AddToCart 횟수,2회,859,10.990276356192426
+전체,Transaction 전 AddToCart 횟수,3회,279,3.569600818833163
+전체,Transaction 전 AddToCart 횟수,4회,140,1.7911975435005119
+전체,Transaction 전 AddToCart 횟수,5회,61,0.7804503582395087
+전체,Transaction 전 AddToCart 횟수,6~10회,90,1.1514841351074718
+전체,Transaction 전 AddToCart 횟수,11~20회,19,0.24309109518935515
+전체,Transaction 전 AddToCart 횟수,21회 이상,5,0.063971340839304
+140,View→AddToCart 소요 시간,1분 미만,2672,29.77822355956759
+140,View→AddToCart 소요 시간,1~5분,3071,34.22489691296111
+140,View→AddToCart 소요 시간,5~15분,1425,15.880976262119692
+140,View→AddToCart 소요 시간,15~30분,561,6.252089602139753
+140,View→AddToCart 소요 시간,30분~1시간,384,4.279505182213306
+140,View→AddToCart 소요 시간,1~3시간,364,4.056614287306363
+140,View→AddToCart 소요 시간,3~6시간,157,1.749693525019503
+140,View→AddToCart 소요 시간,6~12시간,112,1.2481890114788812
+140,View→AddToCart 소요 시간,12~24시간,227,2.529811657193804
+140,AddToCart→Transaction 소요 시간,1분 미만,117,4.222302417899675
+140,AddToCart→Transaction 소요 시간,1~5분,1229,44.35221941537351
+140,AddToCart→Transaction 소요 시간,5~15분,863,31.143991338866833
+140,AddToCart→Transaction 소요 시간,15~30분,231,8.33634067123782
+140,AddToCart→Transaction 소요 시간,30분~1시간,124,4.474918801876579
+140,AddToCart→Transaction 소요 시간,1~3시간,105,3.789245759653555
+140,AddToCart→Transaction 소요 시간,3~6시간,42,1.5156983038614218
+140,AddToCart→Transaction 소요 시간,6~12시간,28,1.0104655359076147
+140,AddToCart→Transaction 소요 시간,12~24시간,32,1.154817755322988
+140,AddToCart 전 View 횟수,1회,5075,56.55856458263679
+140,AddToCart 전 View 횟수,2회,1719,19.157472417251757
+140,AddToCart 전 View 횟수,3회,764,8.514432185445225
+140,AddToCart 전 View 횟수,4회,457,5.093056948623649
+140,AddToCart 전 View 횟수,5회,269,2.997882536498384
+140,AddToCart 전 View 횟수,6~10회,470,5.237936030313161
+140,AddToCart 전 View 횟수,11~20회,178,1.983728964671793
+140,AddToCart 전 View 횟수,21회 이상,41,0.4569263345592332
+140,Transaction 전 AddToCart 횟수,1회,2356,85.023457235655
+140,Transaction 전 AddToCart 횟수,2회,244,8.805485384337784
+140,Transaction 전 AddToCart 횟수,3회,88,3.1757488271382175
+140,Transaction 전 AddToCart 횟수,4회,37,1.335258029592205
+140,Transaction 전 AddToCart 횟수,5회,19,0.6856730422230242
+140,Transaction 전 AddToCart 횟수,6~10회,22,0.7939372067845544
+140,Transaction 전 AddToCart 횟수,11~20회,3,0.10826416456153012
+140,Transaction 전 AddToCart 횟수,21회 이상,2,0.07217610970768674
+카테고리 없음,View→AddToCart 소요 시간,1분 미만,116,28.361858190709043
+카테고리 없음,View→AddToCart 소요 시간,1~5분,113,27.628361858190708
+카테고리 없음,View→AddToCart 소요 시간,5~15분,81,19.80440097799511
+카테고리 없음,View→AddToCart 소요 시간,15~30분,31,7.579462102689487
+카테고리 없음,View→AddToCart 소요 시간,30분~1시간,15,3.6674816625916873
+카테고리 없음,View→AddToCart 소요 시간,1~3시간,24,5.8679706601467
+카테고리 없음,View→AddToCart 소요 시간,3~6시간,11,2.689486552567237
+카테고리 없음,View→AddToCart 소요 시간,6~12시간,8,1.9559902200488997
+카테고리 없음,View→AddToCart 소요 시간,12~24시간,10,2.444987775061125
+카테고리 없음,AddToCart→Transaction 소요 시간,1분 미만,8,7.4074074074074066
+카테고리 없음,AddToCart→Transaction 소요 시간,1~5분,41,37.96296296296296
+카테고리 없음,AddToCart→Transaction 소요 시간,5~15분,34,31.48148148148148
+카테고리 없음,AddToCart→Transaction 소요 시간,15~30분,10,9.25925925925926
+카테고리 없음,AddToCart→Transaction 소요 시간,30분~1시간,6,5.555555555555555
+카테고리 없음,AddToCart→Transaction 소요 시간,1~3시간,3,2.7777777777777777
+카테고리 없음,AddToCart→Transaction 소요 시간,3~6시간,2,1.8518518518518516
+카테고리 없음,AddToCart→Transaction 소요 시간,6~12시간,1,0.9259259259259258
+카테고리 없음,AddToCart→Transaction 소요 시간,12~24시간,3,2.7777777777777777
+카테고리 없음,AddToCart 전 View 횟수,1회,211,51.58924205378973
+카테고리 없음,AddToCart 전 View 횟수,2회,74,18.09290953545232
+카테고리 없음,AddToCart 전 View 횟수,3회,47,11.491442542787286
+카테고리 없음,AddToCart 전 View 횟수,4회,20,4.88997555012225
+카테고리 없음,AddToCart 전 View 횟수,5회,17,4.156479217603912
+카테고리 없음,AddToCart 전 View 횟수,6~10회,22,5.378973105134474
+카테고리 없음,AddToCart 전 View 횟수,11~20회,14,3.4229828850855744
+카테고리 없음,AddToCart 전 View 횟수,21회 이상,4,0.9779951100244498
+카테고리 없음,Transaction 전 AddToCart 횟수,1회,98,90.74074074074075
+카테고리 없음,Transaction 전 AddToCart 횟수,2회,6,5.555555555555555
+카테고리 없음,Transaction 전 AddToCart 횟수,3회,2,1.8518518518518516
+카테고리 없음,Transaction 전 AddToCart 횟수,4회,0,0.0
+카테고리 없음,Transaction 전 AddToCart 횟수,5회,0,0.0
+카테고리 없음,Transaction 전 AddToCart 횟수,6~10회,1,0.9259259259259258
+카테고리 없음,Transaction 전 AddToCart 횟수,11~20회,1,0.9259259259259258
+카테고리 없음,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1532,View→AddToCart 소요 시간,1분 미만,1219,35.05895887259132
+1532,View→AddToCart 소요 시간,1~5분,1117,32.12539545585275
+1532,View→AddToCart 소요 시간,5~15분,527,15.156744319815935
+1532,View→AddToCart 소요 시간,15~30분,205,5.8958872591314355
+1532,View→AddToCart 소요 시간,30분~1시간,109,3.1348863963186653
+1532,View→AddToCart 소요 시간,1~3시간,112,3.221167673281564
+1532,View→AddToCart 소요 시간,3~6시간,59,1.6968651136036814
+1532,View→AddToCart 소요 시간,6~12시간,34,0.9778544722461893
+1532,View→AddToCart 소요 시간,12~24시간,95,2.73224043715847
+1532,AddToCart→Transaction 소요 시간,1분 미만,48,4.481792717086835
+1532,AddToCart→Transaction 소요 시간,1~5분,449,41.9234360410831
+1532,AddToCart→Transaction 소요 시간,5~15분,346,32.3062558356676
+1532,AddToCart→Transaction 소요 시간,15~30분,108,10.084033613445378
+1532,AddToCart→Transaction 소요 시간,30분~1시간,55,5.135387488328664
+1532,AddToCart→Transaction 소요 시간,1~3시간,38,3.5480859010270773
+1532,AddToCart→Transaction 소요 시간,3~6시간,9,0.8403361344537815
+1532,AddToCart→Transaction 소요 시간,6~12시간,5,0.4668534080298786
+1532,AddToCart→Transaction 소요 시간,12~24시간,13,1.2138188608776845
+1532,AddToCart 전 View 횟수,1회,2109,60.65573770491803
+1532,AddToCart 전 View 횟수,2회,682,19.614610296232385
+1532,AddToCart 전 View 횟수,3회,298,8.570606844981306
+1532,AddToCart 전 View 횟수,4회,143,4.112740868564855
+1532,AddToCart 전 View 횟수,5회,72,2.070750647109577
+1532,AddToCart 전 View 횟수,6~10회,132,3.7963761863675582
+1532,AddToCart 전 View 횟수,11~20회,37,1.0641357492090882
+1532,AddToCart 전 View 횟수,21회 이상,4,0.11504170261719873
+1532,Transaction 전 AddToCart 횟수,1회,866,80.85901027077497
+1532,Transaction 전 AddToCart 횟수,2회,127,11.858076563958916
+1532,Transaction 전 AddToCart 횟수,3회,38,3.5480859010270773
+1532,Transaction 전 AddToCart 횟수,4회,17,1.5873015873015872
+1532,Transaction 전 AddToCart 횟수,5회,6,0.5602240896358543
+1532,Transaction 전 AddToCart 횟수,6~10회,13,1.2138188608776845
+1532,Transaction 전 AddToCart 횟수,11~20회,3,0.2801120448179272
+1532,Transaction 전 AddToCart 횟수,21회 이상,1,0.09337068160597572
+1600,View→AddToCart 소요 시간,1분 미만,1145,27.13270142180095
+1600,View→AddToCart 소요 시간,1~5분,1416,33.55450236966825
+1600,View→AddToCart 소요 시간,5~15분,672,15.924170616113745
+1600,View→AddToCart 소요 시간,15~30분,294,6.966824644549763
+1600,View→AddToCart 소요 시간,30분~1시간,178,4.218009478672986
+1600,View→AddToCart 소요 시간,1~3시간,192,4.549763033175355
+1600,View→AddToCart 소요 시간,3~6시간,86,2.037914691943128
+1600,View→AddToCart 소요 시간,6~12시간,89,2.109004739336493
+1600,View→AddToCart 소요 시간,12~24시간,148,3.5071090047393367
+1600,AddToCart→Transaction 소요 시간,1분 미만,39,3.6757775683317626
+1600,AddToCart→Transaction 소요 시간,1~5분,462,43.54382657869934
+1600,AddToCart→Transaction 소요 시간,5~15분,297,27.992459943449578
+1600,AddToCart→Transaction 소요 시간,15~30분,95,8.953817153628654
+1600,AddToCart→Transaction 소요 시간,30분~1시간,62,5.843543826578699
+1600,AddToCart→Transaction 소요 시간,1~3시간,54,5.089538171536287
+1600,AddToCart→Transaction 소요 시간,3~6시간,22,2.0735155513666355
+1600,AddToCart→Transaction 소요 시간,6~12시간,12,1.1310084825636193
+1600,AddToCart→Transaction 소요 시간,12~24시간,18,1.6965127238454287
+1600,AddToCart 전 View 횟수,1회,1980,46.91943127962085
+1600,AddToCart 전 View 횟수,2회,916,21.70616113744076
+1600,AddToCart 전 View 횟수,3회,435,10.308056872037914
+1600,AddToCart 전 View 횟수,4회,266,6.303317535545023
+1600,AddToCart 전 View 횟수,5회,150,3.5545023696682465
+1600,AddToCart 전 View 횟수,6~10회,337,7.985781990521327
+1600,AddToCart 전 View 횟수,11~20회,109,2.5829383886255926
+1600,AddToCart 전 View 횟수,21회 이상,27,0.6398104265402844
+1600,Transaction 전 AddToCart 횟수,1회,855,80.58435438265788
+1600,Transaction 전 AddToCart 횟수,2회,132,12.441093308199811
+1600,Transaction 전 AddToCart 횟수,3회,33,3.1102733270499527
+1600,Transaction 전 AddToCart 횟수,4회,18,1.6965127238454287
+1600,Transaction 전 AddToCart 횟수,5회,10,0.9425070688030159
+1600,Transaction 전 AddToCart 횟수,6~10회,9,0.8482563619227144
+1600,Transaction 전 AddToCart 횟수,11~20회,2,0.1885014137606032
+1600,Transaction 전 AddToCart 횟수,21회 이상,2,0.1885014137606032
+1482,View→AddToCart 소요 시간,1분 미만,1110,34.9936948297604
+1482,View→AddToCart 소요 시간,1~5분,984,31.021437578814627
+1482,View→AddToCart 소요 시간,5~15분,437,13.776796973518286
+1482,View→AddToCart 소요 시간,15~30분,179,5.64312736443884
+1482,View→AddToCart 소요 시간,30분~1시간,126,3.9722572509457756
+1482,View→AddToCart 소요 시간,1~3시간,136,4.287515762925599
+1482,View→AddToCart 소요 시간,3~6시간,59,1.8600252206809584
+1482,View→AddToCart 소요 시간,6~12시간,41,1.2925598991172762
+1482,View→AddToCart 소요 시간,12~24시간,100,3.1525851197982346
+1482,AddToCart→Transaction 소요 시간,1분 미만,29,3.352601156069364
+1482,AddToCart→Transaction 소요 시간,1~5분,356,41.15606936416185
+1482,AddToCart→Transaction 소요 시간,5~15분,249,28.78612716763006
+1482,AddToCart→Transaction 소요 시간,15~30분,89,10.289017341040463
+1482,AddToCart→Transaction 소요 시간,30분~1시간,49,5.664739884393064
+1482,AddToCart→Transaction 소요 시간,1~3시간,40,4.624277456647398
+1482,AddToCart→Transaction 소요 시간,3~6시간,17,1.9653179190751446
+1482,AddToCart→Transaction 소요 시간,6~12시간,14,1.6184971098265895
+1482,AddToCart→Transaction 소요 시간,12~24시간,22,2.5433526011560694
+1482,AddToCart 전 View 횟수,1회,1665,52.4905422446406
+1482,AddToCart 전 View 횟수,2회,665,20.96469104665826
+1482,AddToCart 전 View 횟수,3회,298,9.39470365699874
+1482,AddToCart 전 View 횟수,4회,153,4.823455233291299
+1482,AddToCart 전 View 횟수,5회,101,3.184110970996217
+1482,AddToCart 전 View 횟수,6~10회,209,6.58890290037831
+1482,AddToCart 전 View 횟수,11~20회,61,1.9230769230769231
+1482,AddToCart 전 View 횟수,21회 이상,20,0.6305170239596469
+1482,Transaction 전 AddToCart 횟수,1회,662,76.53179190751445
+1482,Transaction 전 AddToCart 횟수,2회,101,11.676300578034681
+1482,Transaction 전 AddToCart 횟수,3회,39,4.508670520231214
+1482,Transaction 전 AddToCart 횟수,4회,22,2.5433526011560694
+1482,Transaction 전 AddToCart 횟수,5회,15,1.7341040462427744
+1482,Transaction 전 AddToCart 횟수,6~10회,17,1.9653179190751446
+1482,Transaction 전 AddToCart 횟수,11~20회,8,0.9248554913294799
+1482,Transaction 전 AddToCart 횟수,21회 이상,1,0.11560693641618498
+395,View→AddToCart 소요 시간,1분 미만,676,30.61594202898551
+395,View→AddToCart 소요 시간,1~5분,739,33.469202898550726
+395,View→AddToCart 소요 시간,5~15분,360,16.304347826086957
+395,View→AddToCart 소요 시간,15~30분,138,6.25
+395,View→AddToCart 소요 시간,30분~1시간,82,3.713768115942029
+395,View→AddToCart 소요 시간,1~3시간,93,4.211956521739131
+395,View→AddToCart 소요 시간,3~6시간,27,1.2228260869565217
+395,View→AddToCart 소요 시간,6~12시간,29,1.3134057971014492
+395,View→AddToCart 소요 시간,12~24시간,64,2.898550724637681
+395,AddToCart→Transaction 소요 시간,1분 미만,17,2.5373134328358207
+395,AddToCart→Transaction 소요 시간,1~5분,316,47.16417910447761
+395,AddToCart→Transaction 소요 시간,5~15분,209,31.19402985074627
+395,AddToCart→Transaction 소요 시간,15~30분,52,7.761194029850746
+395,AddToCart→Transaction 소요 시간,30분~1시간,38,5.6716417910447765
+395,AddToCart→Transaction 소요 시간,1~3시간,18,2.6865671641791042
+395,AddToCart→Transaction 소요 시간,3~6시간,7,1.0447761194029852
+395,AddToCart→Transaction 소요 시간,6~12시간,3,0.44776119402985076
+395,AddToCart→Transaction 소요 시간,12~24시간,10,1.4925373134328357
+395,AddToCart 전 View 횟수,1회,1268,57.427536231884055
+395,AddToCart 전 View 횟수,2회,486,22.01086956521739
+395,AddToCart 전 View 횟수,3회,188,8.51449275362319
+395,AddToCart 전 View 횟수,4회,89,4.030797101449275
+395,AddToCart 전 View 횟수,5회,54,2.4456521739130435
+395,AddToCart 전 View 횟수,6~10회,101,4.574275362318841
+395,AddToCart 전 View 횟수,11~20회,22,0.9963768115942028
+395,AddToCart 전 View 횟수,21회 이상,0,0.0
+395,Transaction 전 AddToCart 횟수,1회,583,87.01492537313433
+395,Transaction 전 AddToCart 횟수,2회,63,9.402985074626866
+395,Transaction 전 AddToCart 횟수,3회,16,2.3880597014925375
+395,Transaction 전 AddToCart 횟수,4회,4,0.5970149253731344
+395,Transaction 전 AddToCart 횟수,5회,0,0.0
+395,Transaction 전 AddToCart 횟수,6~10회,4,0.5970149253731344
+395,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+395,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+653,View→AddToCart 소요 시간,1분 미만,548,29.040805511393746
+653,View→AddToCart 소요 시간,1~5분,661,35.029146793852675
+653,View→AddToCart 소요 시간,5~15분,311,16.48118706942236
+653,View→AddToCart 소요 시간,15~30분,110,5.829358770535241
+653,View→AddToCart 소요 시간,30분~1시간,73,3.8685744568097507
+653,View→AddToCart 소요 시간,1~3시간,70,3.709591944886063
+653,View→AddToCart 소요 시간,3~6시간,29,1.5368309485956544
+653,View→AddToCart 소요 시간,6~12시간,35,1.8547959724430314
+653,View→AddToCart 소요 시간,12~24시간,50,2.6497085320614735
+653,AddToCart→Transaction 소요 시간,1분 미만,19,3.4545454545454546
+653,AddToCart→Transaction 소요 시간,1~5분,259,47.090909090909086
+653,AddToCart→Transaction 소요 시간,5~15분,159,28.909090909090907
+653,AddToCart→Transaction 소요 시간,15~30분,52,9.454545454545455
+653,AddToCart→Transaction 소요 시간,30분~1시간,22,4.0
+653,AddToCart→Transaction 소요 시간,1~3시간,19,3.4545454545454546
+653,AddToCart→Transaction 소요 시간,3~6시간,9,1.6363636363636365
+653,AddToCart→Transaction 소요 시간,6~12시간,5,0.9090909090909091
+653,AddToCart→Transaction 소요 시간,12~24시간,6,1.090909090909091
+653,AddToCart 전 View 횟수,1회,1046,55.43190249072602
+653,AddToCart 전 View 횟수,2회,356,18.865924748277692
+653,AddToCart 전 View 횟수,3회,172,9.114997350291468
+653,AddToCart 전 View 횟수,4회,88,4.663487016428193
+653,AddToCart 전 View 횟수,5회,57,3.0206677265500796
+653,AddToCart 전 View 횟수,6~10회,125,6.624271330153683
+653,AddToCart 전 View 횟수,11~20회,37,1.9607843137254901
+653,AddToCart 전 View 횟수,21회 이상,6,0.3179650238473768
+653,Transaction 전 AddToCart 횟수,1회,451,82.0
+653,Transaction 전 AddToCart 횟수,2회,65,11.818181818181818
+653,Transaction 전 AddToCart 횟수,3회,18,3.272727272727273
+653,Transaction 전 AddToCart 횟수,4회,7,1.2727272727272727
+653,Transaction 전 AddToCart 횟수,5회,4,0.7272727272727273
+653,Transaction 전 AddToCart 횟수,6~10회,4,0.7272727272727273
+653,Transaction 전 AddToCart 횟수,11~20회,1,0.18181818181818182
+653,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+250,View→AddToCart 소요 시간,1분 미만,354,36.15934627170582
+250,View→AddToCart 소요 시간,1~5분,338,34.52502553626149
+250,View→AddToCart 소요 시간,5~15분,140,14.300306435137896
+250,View→AddToCart 소요 시간,15~30분,45,4.59652706843718
+250,View→AddToCart 소요 시간,30분~1시간,32,3.268641470888662
+250,View→AddToCart 소요 시간,1~3시간,22,2.247191011235955
+250,View→AddToCart 소요 시간,3~6시간,17,1.7364657814096014
+250,View→AddToCart 소요 시간,6~12시간,9,0.9193054136874361
+250,View→AddToCart 소요 시간,12~24시간,22,2.247191011235955
+250,AddToCart→Transaction 소요 시간,1분 미만,6,2.7522935779816518
+250,AddToCart→Transaction 소요 시간,1~5분,111,50.917431192660544
+250,AddToCart→Transaction 소요 시간,5~15분,64,29.357798165137616
+250,AddToCart→Transaction 소요 시간,15~30분,16,7.339449541284404
+250,AddToCart→Transaction 소요 시간,30분~1시간,8,3.669724770642202
+250,AddToCart→Transaction 소요 시간,1~3시간,8,3.669724770642202
+250,AddToCart→Transaction 소요 시간,3~6시간,2,0.9174311926605505
+250,AddToCart→Transaction 소요 시간,6~12시간,2,0.9174311926605505
+250,AddToCart→Transaction 소요 시간,12~24시간,1,0.45871559633027525
+250,AddToCart 전 View 횟수,1회,569,58.12053115423902
+250,AddToCart 전 View 횟수,2회,202,20.633299284984677
+250,AddToCart 전 View 횟수,3회,86,8.78447395301328
+250,AddToCart 전 View 횟수,4회,47,4.800817160367722
+250,AddToCart 전 View 횟수,5회,21,2.1450459652706844
+250,AddToCart 전 View 횟수,6~10회,38,3.881511746680286
+250,AddToCart 전 View 횟수,11~20회,14,1.4300306435137897
+250,AddToCart 전 View 횟수,21회 이상,2,0.20429009193054137
+250,Transaction 전 AddToCart 횟수,1회,193,88.53211009174312
+250,Transaction 전 AddToCart 횟수,2회,19,8.715596330275229
+250,Transaction 전 AddToCart 횟수,3회,6,2.7522935779816518
+250,Transaction 전 AddToCart 횟수,4회,0,0.0
+250,Transaction 전 AddToCart 횟수,5회,0,0.0
+250,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+250,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+250,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1490,View→AddToCart 소요 시간,1분 미만,382,32.04697986577181
+1490,View→AddToCart 소요 시간,1~5분,431,36.15771812080537
+1490,View→AddToCart 소요 시간,5~15분,183,15.35234899328859
+1490,View→AddToCart 소요 시간,15~30분,74,6.208053691275168
+1490,View→AddToCart 소요 시간,30분~1시간,29,2.4328859060402683
+1490,View→AddToCart 소요 시간,1~3시간,45,3.7751677852348995
+1490,View→AddToCart 소요 시간,3~6시간,11,0.9228187919463088
+1490,View→AddToCart 소요 시간,6~12시간,15,1.2583892617449663
+1490,View→AddToCart 소요 시간,12~24시간,22,1.8456375838926176
+1490,AddToCart→Transaction 소요 시간,1분 미만,16,6.2745098039215685
+1490,AddToCart→Transaction 소요 시간,1~5분,123,48.23529411764706
+1490,AddToCart→Transaction 소요 시간,5~15분,70,27.450980392156865
+1490,AddToCart→Transaction 소요 시간,15~30분,19,7.450980392156863
+1490,AddToCart→Transaction 소요 시간,30분~1시간,16,6.2745098039215685
+1490,AddToCart→Transaction 소요 시간,1~3시간,7,2.7450980392156863
+1490,AddToCart→Transaction 소요 시간,3~6시간,2,0.7843137254901961
+1490,AddToCart→Transaction 소요 시간,6~12시간,1,0.39215686274509803
+1490,AddToCart→Transaction 소요 시간,12~24시간,1,0.39215686274509803
+1490,AddToCart 전 View 횟수,1회,714,59.89932885906041
+1490,AddToCart 전 View 횟수,2회,217,18.20469798657718
+1490,AddToCart 전 View 횟수,3회,103,8.640939597315436
+1490,AddToCart 전 View 횟수,4회,55,4.614093959731544
+1490,AddToCart 전 View 횟수,5회,46,3.859060402684564
+1490,AddToCart 전 View 횟수,6~10회,46,3.859060402684564
+1490,AddToCart 전 View 횟수,11~20회,10,0.8389261744966443
+1490,AddToCart 전 View 횟수,21회 이상,1,0.08389261744966443
+1490,Transaction 전 AddToCart 횟수,1회,234,91.76470588235294
+1490,Transaction 전 AddToCart 횟수,2회,18,7.0588235294117645
+1490,Transaction 전 AddToCart 횟수,3회,1,0.39215686274509803
+1490,Transaction 전 AddToCart 횟수,4회,0,0.0
+1490,Transaction 전 AddToCart 횟수,5회,2,0.7843137254901961
+1490,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1490,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1490,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1224,View→AddToCart 소요 시간,1분 미만,448,27.722772277227726
+1224,View→AddToCart 소요 시간,1~5분,523,32.363861386138616
+1224,View→AddToCart 소요 시간,5~15분,252,15.594059405940595
+1224,View→AddToCart 소요 시간,15~30분,126,7.797029702970297
+1224,View→AddToCart 소요 시간,30분~1시간,76,4.702970297029703
+1224,View→AddToCart 소요 시간,1~3시간,76,4.702970297029703
+1224,View→AddToCart 소요 시간,3~6시간,35,2.1658415841584158
+1224,View→AddToCart 소요 시간,6~12시간,40,2.4752475247524752
+1224,View→AddToCart 소요 시간,12~24시간,40,2.4752475247524752
+1224,AddToCart→Transaction 소요 시간,1분 미만,23,3.904923599320883
+1224,AddToCart→Transaction 소요 시간,1~5분,243,41.25636672325976
+1224,AddToCart→Transaction 소요 시간,5~15분,176,29.8811544991511
+1224,AddToCart→Transaction 소요 시간,15~30분,62,10.526315789473683
+1224,AddToCart→Transaction 소요 시간,30분~1시간,33,5.602716468590832
+1224,AddToCart→Transaction 소요 시간,1~3시간,25,4.244482173174872
+1224,AddToCart→Transaction 소요 시간,3~6시간,10,1.697792869269949
+1224,AddToCart→Transaction 소요 시간,6~12시간,6,1.0186757215619695
+1224,AddToCart→Transaction 소요 시간,12~24시간,11,1.8675721561969438
+1224,AddToCart 전 View 횟수,1회,812,50.24752475247525
+1224,AddToCart 전 View 횟수,2회,315,19.492574257425744
+1224,AddToCart 전 View 횟수,3회,157,9.715346534653465
+1224,AddToCart 전 View 횟수,4회,94,5.816831683168317
+1224,AddToCart 전 View 횟수,5회,64,3.9603960396039604
+1224,AddToCart 전 View 횟수,6~10회,119,7.3638613861386135
+1224,AddToCart 전 View 횟수,11~20회,45,2.7846534653465347
+1224,AddToCart 전 View 횟수,21회 이상,10,0.6188118811881188
+1224,Transaction 전 AddToCart 횟수,1회,449,76.23089983022071
+1224,Transaction 전 AddToCart 횟수,2회,88,14.94057724957555
+1224,Transaction 전 AddToCart 횟수,3회,29,4.923599320882852
+1224,Transaction 전 AddToCart 횟수,4회,13,2.2071307300509337
+1224,Transaction 전 AddToCart 횟수,5회,7,1.1884550084889642
+1224,Transaction 전 AddToCart 횟수,6~10회,2,0.3395585738539898
+1224,Transaction 전 AddToCart 횟수,11~20회,1,0.1697792869269949
+1224,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+679,View→AddToCart 소요 시간,1분 미만,326,35.62841530054644
+679,View→AddToCart 소요 시간,1~5분,321,35.08196721311476
+679,View→AddToCart 소요 시간,5~15분,118,12.896174863387976
+679,View→AddToCart 소요 시간,15~30분,55,6.0109289617486334
+679,View→AddToCart 소요 시간,30분~1시간,26,2.841530054644809
+679,View→AddToCart 소요 시간,1~3시간,36,3.934426229508197
+679,View→AddToCart 소요 시간,3~6시간,13,1.4207650273224044
+679,View→AddToCart 소요 시간,6~12시간,6,0.6557377049180327
+679,View→AddToCart 소요 시간,12~24시간,14,1.530054644808743
+679,AddToCart→Transaction 소요 시간,1분 미만,9,3.146853146853147
+679,AddToCart→Transaction 소요 시간,1~5분,131,45.8041958041958
+679,AddToCart→Transaction 소요 시간,5~15분,93,32.51748251748251
+679,AddToCart→Transaction 소요 시간,15~30분,23,8.041958041958042
+679,AddToCart→Transaction 소요 시간,30분~1시간,11,3.8461538461538463
+679,AddToCart→Transaction 소요 시간,1~3시간,14,4.895104895104895
+679,AddToCart→Transaction 소요 시간,3~6시간,1,0.34965034965034963
+679,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+679,AddToCart→Transaction 소요 시간,12~24시간,4,1.3986013986013985
+679,AddToCart 전 View 횟수,1회,532,58.142076502732245
+679,AddToCart 전 View 횟수,2회,225,24.59016393442623
+679,AddToCart 전 View 횟수,3회,59,6.448087431693988
+679,AddToCart 전 View 횟수,4회,35,3.825136612021858
+679,AddToCart 전 View 횟수,5회,22,2.4043715846994536
+679,AddToCart 전 View 횟수,6~10회,33,3.606557377049181
+679,AddToCart 전 View 횟수,11~20회,7,0.7650273224043715
+679,AddToCart 전 View 횟수,21회 이상,2,0.2185792349726776
+679,Transaction 전 AddToCart 횟수,1회,241,84.26573426573427
+679,Transaction 전 AddToCart 횟수,2회,34,11.888111888111888
+679,Transaction 전 AddToCart 횟수,3회,9,3.146853146853147
+679,Transaction 전 AddToCart 횟수,4회,1,0.34965034965034963
+679,Transaction 전 AddToCart 횟수,5회,0,0.0
+679,Transaction 전 AddToCart 횟수,6~10회,1,0.34965034965034963
+679,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+679,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+378,View→AddToCart 소요 시간,1분 미만,93,42.27272727272727
+378,View→AddToCart 소요 시간,1~5분,72,32.72727272727273
+378,View→AddToCart 소요 시간,5~15분,25,11.363636363636363
+378,View→AddToCart 소요 시간,15~30분,9,4.090909090909091
+378,View→AddToCart 소요 시간,30분~1시간,6,2.727272727272727
+378,View→AddToCart 소요 시간,1~3시간,6,2.727272727272727
+378,View→AddToCart 소요 시간,3~6시간,3,1.3636363636363635
+378,View→AddToCart 소요 시간,6~12시간,3,1.3636363636363635
+378,View→AddToCart 소요 시간,12~24시간,3,1.3636363636363635
+378,AddToCart→Transaction 소요 시간,1분 미만,1,1.3888888888888888
+378,AddToCart→Transaction 소요 시간,1~5분,34,47.22222222222222
+378,AddToCart→Transaction 소요 시간,5~15분,29,40.27777777777778
+378,AddToCart→Transaction 소요 시간,15~30분,3,4.166666666666666
+378,AddToCart→Transaction 소요 시간,30분~1시간,3,4.166666666666666
+378,AddToCart→Transaction 소요 시간,1~3시간,1,1.3888888888888888
+378,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+378,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+378,AddToCart→Transaction 소요 시간,12~24시간,1,1.3888888888888888
+378,AddToCart 전 View 횟수,1회,157,71.36363636363636
+378,AddToCart 전 View 횟수,2회,34,15.454545454545453
+378,AddToCart 전 View 횟수,3회,14,6.363636363636363
+378,AddToCart 전 View 횟수,4회,8,3.6363636363636362
+378,AddToCart 전 View 횟수,5회,4,1.8181818181818181
+378,AddToCart 전 View 횟수,6~10회,2,0.9090909090909091
+378,AddToCart 전 View 횟수,11~20회,1,0.45454545454545453
+378,AddToCart 전 View 횟수,21회 이상,0,0.0
+378,Transaction 전 AddToCart 횟수,1회,68,94.44444444444444
+378,Transaction 전 AddToCart 횟수,2회,3,4.166666666666666
+378,Transaction 전 AddToCart 횟수,3회,0,0.0
+378,Transaction 전 AddToCart 횟수,4회,1,1.3888888888888888
+378,Transaction 전 AddToCart 횟수,5회,0,0.0
+378,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+378,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+378,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+791,View→AddToCart 소요 시간,1분 미만,130,31.784841075794624
+791,View→AddToCart 소요 시간,1~5분,125,30.56234718826406
+791,View→AddToCart 소요 시간,5~15분,57,13.93643031784841
+791,View→AddToCart 소요 시간,15~30분,27,6.601466992665037
+791,View→AddToCart 소요 시간,30분~1시간,19,4.645476772616137
+791,View→AddToCart 소요 시간,1~3시간,20,4.88997555012225
+791,View→AddToCart 소요 시간,3~6시간,9,2.2004889975550124
+791,View→AddToCart 소요 시간,6~12시간,4,0.9779951100244498
+791,View→AddToCart 소요 시간,12~24시간,18,4.400977995110025
+791,AddToCart→Transaction 소요 시간,1분 미만,8,6.153846153846154
+791,AddToCart→Transaction 소요 시간,1~5분,63,48.46153846153846
+791,AddToCart→Transaction 소요 시간,5~15분,34,26.153846153846157
+791,AddToCart→Transaction 소요 시간,15~30분,16,12.307692307692308
+791,AddToCart→Transaction 소요 시간,30분~1시간,7,5.384615384615385
+791,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+791,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+791,AddToCart→Transaction 소요 시간,6~12시간,1,0.7692307692307693
+791,AddToCart→Transaction 소요 시간,12~24시간,1,0.7692307692307693
+791,AddToCart 전 View 횟수,1회,216,52.81173594132029
+791,AddToCart 전 View 횟수,2회,89,21.76039119804401
+791,AddToCart 전 View 횟수,3회,28,6.845965770171149
+791,AddToCart 전 View 횟수,4회,24,5.8679706601467
+791,AddToCart 전 View 횟수,5회,10,2.444987775061125
+791,AddToCart 전 View 횟수,6~10회,24,5.8679706601467
+791,AddToCart 전 View 횟수,11~20회,16,3.9119804400977993
+791,AddToCart 전 View 횟수,21회 이상,2,0.4889975550122249
+791,Transaction 전 AddToCart 횟수,1회,110,84.61538461538461
+791,Transaction 전 AddToCart 횟수,2회,13,10.0
+791,Transaction 전 AddToCart 횟수,3회,6,4.615384615384616
+791,Transaction 전 AddToCart 횟수,4회,1,0.7692307692307693
+791,Transaction 전 AddToCart 횟수,5회,0,0.0
+791,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+791,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+791,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1698,View→AddToCart 소요 시간,1분 미만,127,31.909547738693465
+1698,View→AddToCart 소요 시간,1~5분,146,36.68341708542713
+1698,View→AddToCart 소요 시간,5~15분,72,18.090452261306535
+1698,View→AddToCart 소요 시간,15~30분,18,4.522613065326634
+1698,View→AddToCart 소요 시간,30분~1시간,11,2.763819095477387
+1698,View→AddToCart 소요 시간,1~3시간,10,2.512562814070352
+1698,View→AddToCart 소요 시간,3~6시간,4,1.0050251256281406
+1698,View→AddToCart 소요 시간,6~12시간,3,0.7537688442211055
+1698,View→AddToCart 소요 시간,12~24시간,7,1.7587939698492463
+1698,AddToCart→Transaction 소요 시간,1분 미만,6,4.8
+1698,AddToCart→Transaction 소요 시간,1~5분,60,48.0
+1698,AddToCart→Transaction 소요 시간,5~15분,35,28.000000000000004
+1698,AddToCart→Transaction 소요 시간,15~30분,7,5.6000000000000005
+1698,AddToCart→Transaction 소요 시간,30분~1시간,6,4.8
+1698,AddToCart→Transaction 소요 시간,1~3시간,4,3.2
+1698,AddToCart→Transaction 소요 시간,3~6시간,2,1.6
+1698,AddToCart→Transaction 소요 시간,6~12시간,2,1.6
+1698,AddToCart→Transaction 소요 시간,12~24시간,3,2.4
+1698,AddToCart 전 View 횟수,1회,244,61.30653266331658
+1698,AddToCart 전 View 횟수,2회,73,18.341708542713565
+1698,AddToCart 전 View 횟수,3회,35,8.793969849246231
+1698,AddToCart 전 View 횟수,4회,20,5.025125628140704
+1698,AddToCart 전 View 횟수,5회,12,3.015075376884422
+1698,AddToCart 전 View 횟수,6~10회,11,2.763819095477387
+1698,AddToCart 전 View 횟수,11~20회,3,0.7537688442211055
+1698,AddToCart 전 View 횟수,21회 이상,0,0.0
+1698,Transaction 전 AddToCart 횟수,1회,105,84.0
+1698,Transaction 전 AddToCart 횟수,2회,14,11.200000000000001
+1698,Transaction 전 AddToCart 횟수,3회,4,3.2
+1698,Transaction 전 AddToCart 횟수,4회,2,1.6
+1698,Transaction 전 AddToCart 횟수,5회,0,0.0
+1698,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1698,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1698,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+431,View→AddToCart 소요 시간,1분 미만,0,0.0
+431,View→AddToCart 소요 시간,1~5분,0,0.0
+431,View→AddToCart 소요 시간,5~15분,0,0.0
+431,View→AddToCart 소요 시간,15~30분,0,0.0
+431,View→AddToCart 소요 시간,30분~1시간,0,0.0
+431,View→AddToCart 소요 시간,1~3시간,0,0.0
+431,View→AddToCart 소요 시간,3~6시간,0,0.0
+431,View→AddToCart 소요 시간,6~12시간,0,0.0
+431,View→AddToCart 소요 시간,12~24시간,0,0.0
+431,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+431,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+431,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+431,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+431,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+431,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+431,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+431,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+431,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+431,AddToCart 전 View 횟수,1회,0,0.0
+431,AddToCart 전 View 횟수,2회,0,0.0
+431,AddToCart 전 View 횟수,3회,0,0.0
+431,AddToCart 전 View 횟수,4회,0,0.0
+431,AddToCart 전 View 횟수,5회,0,0.0
+431,AddToCart 전 View 횟수,6~10회,0,0.0
+431,AddToCart 전 View 횟수,11~20회,0,0.0
+431,AddToCart 전 View 횟수,21회 이상,0,0.0
+431,Transaction 전 AddToCart 횟수,1회,0,0.0
+431,Transaction 전 AddToCart 횟수,2회,0,0.0
+431,Transaction 전 AddToCart 횟수,3회,0,0.0
+431,Transaction 전 AddToCart 횟수,4회,0,0.0
+431,Transaction 전 AddToCart 횟수,5회,0,0.0
+431,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+431,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+431,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1579,View→AddToCart 소요 시간,1분 미만,8,57.14285714285714
+1579,View→AddToCart 소요 시간,1~5분,3,21.428571428571427
+1579,View→AddToCart 소요 시간,5~15분,2,14.285714285714285
+1579,View→AddToCart 소요 시간,15~30분,1,7.142857142857142
+1579,View→AddToCart 소요 시간,30분~1시간,0,0.0
+1579,View→AddToCart 소요 시간,1~3시간,0,0.0
+1579,View→AddToCart 소요 시간,3~6시간,0,0.0
+1579,View→AddToCart 소요 시간,6~12시간,0,0.0
+1579,View→AddToCart 소요 시간,12~24시간,0,0.0
+1579,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+1579,AddToCart→Transaction 소요 시간,1~5분,2,28.57142857142857
+1579,AddToCart→Transaction 소요 시간,5~15분,3,42.857142857142854
+1579,AddToCart→Transaction 소요 시간,15~30분,1,14.285714285714285
+1579,AddToCart→Transaction 소요 시간,30분~1시간,1,14.285714285714285
+1579,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+1579,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+1579,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+1579,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+1579,AddToCart 전 View 횟수,1회,10,71.42857142857143
+1579,AddToCart 전 View 횟수,2회,2,14.285714285714285
+1579,AddToCart 전 View 횟수,3회,1,7.142857142857142
+1579,AddToCart 전 View 횟수,4회,0,0.0
+1579,AddToCart 전 View 횟수,5회,0,0.0
+1579,AddToCart 전 View 횟수,6~10회,1,7.142857142857142
+1579,AddToCart 전 View 횟수,11~20회,0,0.0
+1579,AddToCart 전 View 횟수,21회 이상,0,0.0
+1579,Transaction 전 AddToCart 횟수,1회,6,85.71428571428571
+1579,Transaction 전 AddToCart 횟수,2회,1,14.285714285714285
+1579,Transaction 전 AddToCart 횟수,3회,0,0.0
+1579,Transaction 전 AddToCart 횟수,4회,0,0.0
+1579,Transaction 전 AddToCart 횟수,5회,0,0.0
+1579,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1579,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1579,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1394,View→AddToCart 소요 시간,1분 미만,0,0.0
+1394,View→AddToCart 소요 시간,1~5분,0,0.0
+1394,View→AddToCart 소요 시간,5~15분,0,0.0
+1394,View→AddToCart 소요 시간,15~30분,0,0.0
+1394,View→AddToCart 소요 시간,30분~1시간,0,0.0
+1394,View→AddToCart 소요 시간,1~3시간,0,0.0
+1394,View→AddToCart 소요 시간,3~6시간,0,0.0
+1394,View→AddToCart 소요 시간,6~12시간,0,0.0
+1394,View→AddToCart 소요 시간,12~24시간,0,0.0
+1394,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+1394,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+1394,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+1394,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+1394,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+1394,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+1394,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+1394,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+1394,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+1394,AddToCart 전 View 횟수,1회,0,0.0
+1394,AddToCart 전 View 횟수,2회,0,0.0
+1394,AddToCart 전 View 횟수,3회,0,0.0
+1394,AddToCart 전 View 횟수,4회,0,0.0
+1394,AddToCart 전 View 횟수,5회,0,0.0
+1394,AddToCart 전 View 횟수,6~10회,0,0.0
+1394,AddToCart 전 View 횟수,11~20회,0,0.0
+1394,AddToCart 전 View 횟수,21회 이상,0,0.0
+1394,Transaction 전 AddToCart 횟수,1회,0,0.0
+1394,Transaction 전 AddToCart 횟수,2회,0,0.0
+1394,Transaction 전 AddToCart 횟수,3회,0,0.0
+1394,Transaction 전 AddToCart 횟수,4회,0,0.0
+1394,Transaction 전 AddToCart 횟수,5회,0,0.0
+1394,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1394,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1394,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+859,View→AddToCart 소요 시간,1분 미만,52,30.76923076923077
+859,View→AddToCart 소요 시간,1~5분,67,39.64497041420118
+859,View→AddToCart 소요 시간,5~15분,21,12.42603550295858
+859,View→AddToCart 소요 시간,15~30분,7,4.142011834319527
+859,View→AddToCart 소요 시간,30분~1시간,3,1.7751479289940828
+859,View→AddToCart 소요 시간,1~3시간,10,5.9171597633136095
+859,View→AddToCart 소요 시간,3~6시간,1,0.591715976331361
+859,View→AddToCart 소요 시간,6~12시간,2,1.183431952662722
+859,View→AddToCart 소요 시간,12~24시간,6,3.5502958579881656
+859,AddToCart→Transaction 소요 시간,1분 미만,5,9.615384615384617
+859,AddToCart→Transaction 소요 시간,1~5분,28,53.84615384615385
+859,AddToCart→Transaction 소요 시간,5~15분,11,21.153846153846153
+859,AddToCart→Transaction 소요 시간,15~30분,4,7.6923076923076925
+859,AddToCart→Transaction 소요 시간,30분~1시간,2,3.8461538461538463
+859,AddToCart→Transaction 소요 시간,1~3시간,1,1.9230769230769231
+859,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+859,AddToCart→Transaction 소요 시간,6~12시간,1,1.9230769230769231
+859,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+859,AddToCart 전 View 횟수,1회,91,53.84615384615385
+859,AddToCart 전 View 횟수,2회,34,20.118343195266274
+859,AddToCart 전 View 횟수,3회,18,10.650887573964498
+859,AddToCart 전 View 횟수,4회,10,5.9171597633136095
+859,AddToCart 전 View 횟수,5회,5,2.9585798816568047
+859,AddToCart 전 View 횟수,6~10회,8,4.733727810650888
+859,AddToCart 전 View 횟수,11~20회,2,1.183431952662722
+859,AddToCart 전 View 횟수,21회 이상,1,0.591715976331361
+859,Transaction 전 AddToCart 횟수,1회,45,86.53846153846155
+859,Transaction 전 AddToCart 횟수,2회,6,11.538461538461538
+859,Transaction 전 AddToCart 횟수,3회,0,0.0
+859,Transaction 전 AddToCart 횟수,4회,0,0.0
+859,Transaction 전 AddToCart 횟수,5회,0,0.0
+859,Transaction 전 AddToCart 횟수,6~10회,1,1.9230769230769231
+859,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+859,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1452,View→AddToCart 소요 시간,1분 미만,1,20.0
+1452,View→AddToCart 소요 시간,1~5분,1,20.0
+1452,View→AddToCart 소요 시간,5~15분,2,40.0
+1452,View→AddToCart 소요 시간,15~30분,0,0.0
+1452,View→AddToCart 소요 시간,30분~1시간,1,20.0
+1452,View→AddToCart 소요 시간,1~3시간,0,0.0
+1452,View→AddToCart 소요 시간,3~6시간,0,0.0
+1452,View→AddToCart 소요 시간,6~12시간,0,0.0
+1452,View→AddToCart 소요 시간,12~24시간,0,0.0
+1452,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+1452,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+1452,AddToCart→Transaction 소요 시간,5~15분,1,33.33333333333333
+1452,AddToCart→Transaction 소요 시간,15~30분,2,66.66666666666666
+1452,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+1452,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+1452,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+1452,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+1452,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+1452,AddToCart 전 View 횟수,1회,2,40.0
+1452,AddToCart 전 View 횟수,2회,2,40.0
+1452,AddToCart 전 View 횟수,3회,1,20.0
+1452,AddToCart 전 View 횟수,4회,0,0.0
+1452,AddToCart 전 View 횟수,5회,0,0.0
+1452,AddToCart 전 View 횟수,6~10회,0,0.0
+1452,AddToCart 전 View 횟수,11~20회,0,0.0
+1452,AddToCart 전 View 횟수,21회 이상,0,0.0
+1452,Transaction 전 AddToCart 횟수,1회,2,66.66666666666666
+1452,Transaction 전 AddToCart 횟수,2회,0,0.0
+1452,Transaction 전 AddToCart 횟수,3회,1,33.33333333333333
+1452,Transaction 전 AddToCart 횟수,4회,0,0.0
+1452,Transaction 전 AddToCart 횟수,5회,0,0.0
+1452,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1452,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1452,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+803,View→AddToCart 소요 시간,1분 미만,10,37.03703703703704
+803,View→AddToCart 소요 시간,1~5분,4,14.814814814814813
+803,View→AddToCart 소요 시간,5~15분,4,14.814814814814813
+803,View→AddToCart 소요 시간,15~30분,1,3.7037037037037033
+803,View→AddToCart 소요 시간,30분~1시간,1,3.7037037037037033
+803,View→AddToCart 소요 시간,1~3시간,2,7.4074074074074066
+803,View→AddToCart 소요 시간,3~6시간,2,7.4074074074074066
+803,View→AddToCart 소요 시간,6~12시간,2,7.4074074074074066
+803,View→AddToCart 소요 시간,12~24시간,1,3.7037037037037033
+803,AddToCart→Transaction 소요 시간,1분 미만,1,11.11111111111111
+803,AddToCart→Transaction 소요 시간,1~5분,3,33.33333333333333
+803,AddToCart→Transaction 소요 시간,5~15분,1,11.11111111111111
+803,AddToCart→Transaction 소요 시간,15~30분,1,11.11111111111111
+803,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+803,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+803,AddToCart→Transaction 소요 시간,3~6시간,2,22.22222222222222
+803,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+803,AddToCart→Transaction 소요 시간,12~24시간,1,11.11111111111111
+803,AddToCart 전 View 횟수,1회,14,51.85185185185185
+803,AddToCart 전 View 횟수,2회,4,14.814814814814813
+803,AddToCart 전 View 횟수,3회,2,7.4074074074074066
+803,AddToCart 전 View 횟수,4회,2,7.4074074074074066
+803,AddToCart 전 View 횟수,5회,3,11.11111111111111
+803,AddToCart 전 View 횟수,6~10회,2,7.4074074074074066
+803,AddToCart 전 View 횟수,11~20회,0,0.0
+803,AddToCart 전 View 횟수,21회 이상,0,0.0
+803,Transaction 전 AddToCart 횟수,1회,6,66.66666666666666
+803,Transaction 전 AddToCart 횟수,2회,1,11.11111111111111
+803,Transaction 전 AddToCart 횟수,3회,2,22.22222222222222
+803,Transaction 전 AddToCart 횟수,4회,0,0.0
+803,Transaction 전 AddToCart 횟수,5회,0,0.0
+803,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+803,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+803,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+755,View→AddToCart 소요 시간,1분 미만,0,0.0
+755,View→AddToCart 소요 시간,1~5분,0,0.0
+755,View→AddToCart 소요 시간,5~15분,0,0.0
+755,View→AddToCart 소요 시간,15~30분,0,0.0
+755,View→AddToCart 소요 시간,30분~1시간,0,0.0
+755,View→AddToCart 소요 시간,1~3시간,0,0.0
+755,View→AddToCart 소요 시간,3~6시간,0,0.0
+755,View→AddToCart 소요 시간,6~12시간,0,0.0
+755,View→AddToCart 소요 시간,12~24시간,0,0.0
+755,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+755,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+755,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+755,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+755,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+755,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+755,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+755,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+755,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+755,AddToCart 전 View 횟수,1회,0,0.0
+755,AddToCart 전 View 횟수,2회,0,0.0
+755,AddToCart 전 View 횟수,3회,0,0.0
+755,AddToCart 전 View 횟수,4회,0,0.0
+755,AddToCart 전 View 횟수,5회,0,0.0
+755,AddToCart 전 View 횟수,6~10회,0,0.0
+755,AddToCart 전 View 횟수,11~20회,0,0.0
+755,AddToCart 전 View 횟수,21회 이상,0,0.0
+755,Transaction 전 AddToCart 횟수,1회,0,0.0
+755,Transaction 전 AddToCart 횟수,2회,0,0.0
+755,Transaction 전 AddToCart 횟수,3회,0,0.0
+755,Transaction 전 AddToCart 횟수,4회,0,0.0
+755,Transaction 전 AddToCart 횟수,5회,0,0.0
+755,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+755,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+755,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1057,View→AddToCart 소요 시간,1분 미만,2,40.0
+1057,View→AddToCart 소요 시간,1~5분,3,60.0
+1057,View→AddToCart 소요 시간,5~15분,0,0.0
+1057,View→AddToCart 소요 시간,15~30분,0,0.0
+1057,View→AddToCart 소요 시간,30분~1시간,0,0.0
+1057,View→AddToCart 소요 시간,1~3시간,0,0.0
+1057,View→AddToCart 소요 시간,3~6시간,0,0.0
+1057,View→AddToCart 소요 시간,6~12시간,0,0.0
+1057,View→AddToCart 소요 시간,12~24시간,0,0.0
+1057,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+1057,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+1057,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+1057,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+1057,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+1057,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+1057,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+1057,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+1057,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+1057,AddToCart 전 View 횟수,1회,5,100.0
+1057,AddToCart 전 View 횟수,2회,0,0.0
+1057,AddToCart 전 View 횟수,3회,0,0.0
+1057,AddToCart 전 View 횟수,4회,0,0.0
+1057,AddToCart 전 View 횟수,5회,0,0.0
+1057,AddToCart 전 View 횟수,6~10회,0,0.0
+1057,AddToCart 전 View 횟수,11~20회,0,0.0
+1057,AddToCart 전 View 횟수,21회 이상,0,0.0
+1057,Transaction 전 AddToCart 횟수,1회,0,0.0
+1057,Transaction 전 AddToCart 횟수,2회,0,0.0
+1057,Transaction 전 AddToCart 횟수,3회,0,0.0
+1057,Transaction 전 AddToCart 횟수,4회,0,0.0
+1057,Transaction 전 AddToCart 횟수,5회,0,0.0
+1057,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1057,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1057,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+659,View→AddToCart 소요 시간,1분 미만,0,0.0
+659,View→AddToCart 소요 시간,1~5분,1,100.0
+659,View→AddToCart 소요 시간,5~15분,0,0.0
+659,View→AddToCart 소요 시간,15~30분,0,0.0
+659,View→AddToCart 소요 시간,30분~1시간,0,0.0
+659,View→AddToCart 소요 시간,1~3시간,0,0.0
+659,View→AddToCart 소요 시간,3~6시간,0,0.0
+659,View→AddToCart 소요 시간,6~12시간,0,0.0
+659,View→AddToCart 소요 시간,12~24시간,0,0.0
+659,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+659,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+659,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+659,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+659,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+659,AddToCart→Transaction 소요 시간,1~3시간,1,100.0
+659,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+659,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+659,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+659,AddToCart 전 View 횟수,1회,1,100.0
+659,AddToCart 전 View 횟수,2회,0,0.0
+659,AddToCart 전 View 횟수,3회,0,0.0
+659,AddToCart 전 View 횟수,4회,0,0.0
+659,AddToCart 전 View 횟수,5회,0,0.0
+659,AddToCart 전 View 횟수,6~10회,0,0.0
+659,AddToCart 전 View 횟수,11~20회,0,0.0
+659,AddToCart 전 View 횟수,21회 이상,0,0.0
+659,Transaction 전 AddToCart 횟수,1회,1,100.0
+659,Transaction 전 AddToCart 횟수,2회,0,0.0
+659,Transaction 전 AddToCart 횟수,3회,0,0.0
+659,Transaction 전 AddToCart 횟수,4회,0,0.0
+659,Transaction 전 AddToCart 횟수,5회,0,0.0
+659,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+659,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+659,Transaction 전 AddToCart 횟수,21회 이상,0,0.0
+1692,View→AddToCart 소요 시간,1분 미만,0,0.0
+1692,View→AddToCart 소요 시간,1~5분,0,0.0
+1692,View→AddToCart 소요 시간,5~15분,0,0.0
+1692,View→AddToCart 소요 시간,15~30분,0,0.0
+1692,View→AddToCart 소요 시간,30분~1시간,0,0.0
+1692,View→AddToCart 소요 시간,1~3시간,0,0.0
+1692,View→AddToCart 소요 시간,3~6시간,0,0.0
+1692,View→AddToCart 소요 시간,6~12시간,0,0.0
+1692,View→AddToCart 소요 시간,12~24시간,0,0.0
+1692,AddToCart→Transaction 소요 시간,1분 미만,0,0.0
+1692,AddToCart→Transaction 소요 시간,1~5분,0,0.0
+1692,AddToCart→Transaction 소요 시간,5~15분,0,0.0
+1692,AddToCart→Transaction 소요 시간,15~30분,0,0.0
+1692,AddToCart→Transaction 소요 시간,30분~1시간,0,0.0
+1692,AddToCart→Transaction 소요 시간,1~3시간,0,0.0
+1692,AddToCart→Transaction 소요 시간,3~6시간,0,0.0
+1692,AddToCart→Transaction 소요 시간,6~12시간,0,0.0
+1692,AddToCart→Transaction 소요 시간,12~24시간,0,0.0
+1692,AddToCart 전 View 횟수,1회,0,0.0
+1692,AddToCart 전 View 횟수,2회,0,0.0
+1692,AddToCart 전 View 횟수,3회,0,0.0
+1692,AddToCart 전 View 횟수,4회,0,0.0
+1692,AddToCart 전 View 횟수,5회,0,0.0
+1692,AddToCart 전 View 횟수,6~10회,0,0.0
+1692,AddToCart 전 View 횟수,11~20회,0,0.0
+1692,AddToCart 전 View 횟수,21회 이상,0,0.0
+1692,Transaction 전 AddToCart 횟수,1회,0,0.0
+1692,Transaction 전 AddToCart 횟수,2회,0,0.0
+1692,Transaction 전 AddToCart 횟수,3회,0,0.0
+1692,Transaction 전 AddToCart 횟수,4회,0,0.0
+1692,Transaction 전 AddToCart 횟수,5회,0,0.0
+1692,Transaction 전 AddToCart 횟수,6~10회,0,0.0
+1692,Transaction 전 AddToCart 횟수,11~20회,0,0.0
+1692,Transaction 전 AddToCart 횟수,21회 이상,0,0.0

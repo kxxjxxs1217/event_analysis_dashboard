@@ -1,0 +1,2 @@
+﻿전체,View,AddToCart,Transaction,View→AddToCart(%),AddToCart→Transaction(%),View→Transaction(%),View→AddToCart 중앙값(분),AddToCart→Transaction 중앙값(분)
+전체,1380392,27874,7816,2.0192814794638045,28.040467819473346,0.5662159734336334,2.4685416,5.3400087

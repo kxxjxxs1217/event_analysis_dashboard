@@ -1,0 +1,6 @@
+﻿지표,정의,값(이벤트 테이블),값(방문자 테이블),일치
+활성 사용자 수,view·addtocart·transaction 중 어떤 이벤트든 1회 이상 한 고유 방문자,1395013,1395013,True
+구매자 수,transaction을 1회 이상 한 고유 방문자,11614,11614,True
+구매 횟수,고유 transactionid 수 (주문 수),17504,17504,True
+장바구니에 담은 횟수,addtocart 이벤트 수,68291,68291,True
+이벤트 횟수,전체 이벤트 수 (view + addtocart + transaction),2730238,2730238,True
